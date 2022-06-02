@@ -1,2 +1,2 @@
 # DataCamp
-Project of Data Scientist career track
+Projects of Data Scientist career track
